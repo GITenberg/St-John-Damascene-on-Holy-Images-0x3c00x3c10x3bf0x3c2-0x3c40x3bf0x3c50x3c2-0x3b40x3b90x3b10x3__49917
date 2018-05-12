@@ -1,4 +1,5 @@
 _repo: St-John-Damascene-on-Holy-Images-0x3c00x3c10x3bf0x3c2-0x3c40x3bf0x3c50x3c2-0x3b40x3b90x3b10x3__49917
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Allies, Mary H. (Mary Helen)
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '45609'
     url: http://www.gutenberg.org/2009/agents/45609
+covers:
+- cover_type: archival
+  image_path: 49917-h/images/cover.png
 creator:
   author:
     agent_name: John of Damascus, Saint
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/385
     wikipedia: http://en.wikipedia.org/wiki/John_of_Damascus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49917#St-John-Damascene-on-Holy-Images-0x3c00x3c10x3bf0x3c2-0x3c40x3bf0x3c50x3c2-0x3b40x3b90x3b10x3_
 gutenberg_issued: '2015-09-09'
 gutenberg_type: Text
 identifiers:
